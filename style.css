@@ -1,0 +1,40 @@
+.h1 {
+  font-style: normal;
+  color: rgb(205, 13, 13);
+}
+.h2 {
+  font-style: italic;
+  color: rgb(222, 90, 42);
+}
+.orderedlist {
+  color: brown;
+}
+.linethrough {
+  text-decoration: line-through;
+}
+.highlight {
+  background-color: rgb(251, 255, 0);
+  font-weight: 800;
+}
+.underline {
+  text-decoration: underline;
+  font-style: italic;
+}
+.heading3 {
+  font-style: italic;
+  color: rgb(222, 90, 42);
+}
+.letterspacing {
+  letter-spacing: 3px;
+  color: brown;
+}
+.highlight2 {
+  background-color: rgb(251, 255, 0);
+}
+.lastparagraphs {
+  color: brown;
+}
+.link {
+  background-color: rgb(251, 255, 0);
+  color: brown;
+}
